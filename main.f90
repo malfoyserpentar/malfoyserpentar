@@ -356,7 +356,6 @@ PROGRAM modelisation_2
     DEALLOCATE(Alpha)
     DEALLOCATE(K)
     DEALLOCATE(gamma)
-    !Codé Par : Elodie LE GUEN et Erwan BENHENOU
 END PROGRAM modelisation_2
 
 SUBROUTINE ecriture_excel(N,IPAR,LIP,RPAR,LRP,t,X)
